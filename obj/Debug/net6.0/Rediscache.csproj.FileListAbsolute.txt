@@ -1,0 +1,5 @@
+C:\Users\46785\Desktop\倪俊\Azure\Project\Rediscache\obj\Debug\net6.0\Rediscache.csproj.AssemblyReference.cache
+C:\Users\46785\Desktop\倪俊\Azure\Project\Rediscache\obj\Debug\net6.0\Rediscache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46785\Desktop\倪俊\Azure\Project\Rediscache\obj\Debug\net6.0\Rediscache.AssemblyInfoInputs.cache
+C:\Users\46785\Desktop\倪俊\Azure\Project\Rediscache\obj\Debug\net6.0\Rediscache.AssemblyInfo.cs
+C:\Users\46785\Desktop\倪俊\Azure\Project\Rediscache\obj\Debug\net6.0\Rediscache.csproj.CoreCompileInputs.cache
