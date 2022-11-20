@@ -23,5 +23,7 @@ static async Task Main(string[] args)
         string getValue = await db.StringGetAsync("test:key");
         Console.WriteLine($"GET: {getValue}");
 
+        string b = a;
+
     }
 }
